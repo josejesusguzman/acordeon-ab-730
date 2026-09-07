@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="470" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Temperatura: el mismo modelo, dos personalidades</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">No cambia lo que el modelo sabe. Cambia qué tan dispuesto está a no elegir la opción más probable.</text>
+
+  <rect x="32" y="96" width="404" height="290" rx="10" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="52" y="126" font-size="15" font-weight="700" fill="#1e3a8a">Temperatura baja (0.0 – 0.3)</text>
+  <text x="52" y="148" font-size="13" fill="#4b5563">Casi siempre elige el token más probable</text>
+  <g>
+    <rect x="72" y="180" width="52" height="160" rx="5" fill="#2563eb"/>
+    <rect x="140" y="292" width="52" height="48" rx="5" fill="#93c5fd"/>
+    <rect x="208" y="316" width="52" height="24" rx="5" fill="#bfdbfe"/>
+    <rect x="276" y="328" width="52" height="12" rx="5" fill="#dbeafe"/>
+    <rect x="344" y="334" width="52" height="6" rx="3" fill="#eff6ff" stroke="#dbeafe"/>
+  </g>
+  <line x1="60" y1="340" x2="412" y2="340" stroke="#9ca3af" stroke-width="1.5"/>
+  <text x="98" y="358" font-size="12" fill="#6b7280" text-anchor="middle">1º</text>
+  <text x="166" y="358" font-size="12" fill="#6b7280" text-anchor="middle">2º</text>
+  <text x="234" y="358" font-size="12" fill="#6b7280" text-anchor="middle">3º</text>
+  <text x="302" y="358" font-size="12" fill="#6b7280" text-anchor="middle">4º</text>
+  <text x="370" y="358" font-size="12" fill="#6b7280" text-anchor="middle">5º</text>
+  <text x="52" y="378" font-size="13" fill="#1e40af" font-weight="700">Predecible, consistente, repetitivo</text>
+
+  <rect x="464" y="96" width="404" height="290" rx="10" fill="#ffffff" stroke="#fdba74" stroke-width="2"/>
+  <text x="484" y="126" font-size="15" font-weight="700" fill="#9a3412">Temperatura alta (0.8 – 1.2)</text>
+  <text x="484" y="148" font-size="13" fill="#4b5563">Reparte la probabilidad entre más opciones</text>
+  <g>
+    <rect x="504" y="248" width="52" height="92" rx="5" fill="#ea580c"/>
+    <rect x="572" y="264" width="52" height="76" rx="5" fill="#f97316"/>
+    <rect x="640" y="276" width="52" height="64" rx="5" fill="#fb923c"/>
+    <rect x="708" y="288" width="52" height="52" rx="5" fill="#fdba74"/>
+    <rect x="776" y="298" width="52" height="42" rx="5" fill="#fed7aa"/>
+  </g>
+  <line x1="492" y1="340" x2="844" y2="340" stroke="#9ca3af" stroke-width="1.5"/>
+  <text x="530" y="358" font-size="12" fill="#6b7280" text-anchor="middle">1º</text>
+  <text x="598" y="358" font-size="12" fill="#6b7280" text-anchor="middle">2º</text>
+  <text x="666" y="358" font-size="12" fill="#6b7280" text-anchor="middle">3º</text>
+  <text x="734" y="358" font-size="12" fill="#6b7280" text-anchor="middle">4º</text>
+  <text x="802" y="358" font-size="12" fill="#6b7280" text-anchor="middle">5º</text>
+  <text x="484" y="378" font-size="13" fill="#9a3412" font-weight="700">Creativo, variado, más riesgo de error</text>
+
+  <rect x="32" y="400" width="836" height="50" rx="9" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="50" y="422" font-size="13" fill="#374151"><tspan font-weight="700">En Copilot no la ves</tspan>, pero está ahí: por eso una misma pregunta te da respuestas distintas dos veces seguidas.</text>
+  <text x="50" y="442" font-size="13" fill="#374151">En un agente propio sí decides el equivalente: reglas estrictas (auditoría, cumplimiento) o margen creativo (marketing).</text>
+</svg>

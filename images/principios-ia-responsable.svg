@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" width="900" height="540" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="540" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Los seis principios de IA responsable de Microsoft</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Los seis están al mismo nivel: no hay unos más importantes que otros. Todos juntos son el marco.</text>
+
+  <g>
+    <rect x="32" y="94" width="270" height="196" rx="11" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+    <circle cx="60" cy="124" r="15" fill="#2563eb"/><text x="60" y="129" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">1</text>
+    <text x="86" y="123" font-size="16" font-weight="700" fill="#1e3a8a">Equidad</text>
+    <text x="86" y="141" font-size="11.5" fill="#6b7280" font-style="italic">Fairness</text>
+    <text x="52" y="172" font-size="12.5" fill="#374151">Los datos de entrenamiento los</text>
+    <text x="52" y="190" font-size="12.5" fill="#374151">eligen personas y pueden reflejar</text>
+    <text x="52" y="208" font-size="12.5" fill="#374151">sesgos inconscientes que hagan</text>
+    <text x="52" y="226" font-size="12.5" fill="#374151">que el modelo discrimine.</text>
+    <text x="52" y="254" font-size="12" fill="#1d4ed8" font-weight="700">Ejemplo oficial</text>
+    <text x="52" y="272" font-size="12" fill="#4b5563">Sistema de admisión universitaria</text>
+  </g>
+
+  <g>
+    <rect x="315" y="94" width="270" height="196" rx="11" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+    <circle cx="343" cy="124" r="15" fill="#2563eb"/><text x="343" y="129" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">2</text>
+    <text x="369" y="123" font-size="14.5" font-weight="700" fill="#1e3a8a">Confiabilidad y seguridad</text>
+    <text x="369" y="141" font-size="11.5" fill="#6b7280" font-style="italic">Reliability &amp; Safety</text>
+    <text x="335" y="172" font-size="12.5" fill="#374151">La IA se basa en modelos</text>
+    <text x="335" y="190" font-size="12.5" fill="#374151">probabilísticos: no es infalible.</text>
+    <text x="335" y="208" font-size="12.5" fill="#374151">Las aplicaciones deben tenerlo</text>
+    <text x="335" y="226" font-size="12.5" fill="#374151">en cuenta y mitigar el riesgo.</text>
+    <text x="335" y="254" font-size="12" fill="#1d4ed8" font-weight="700">Ejemplo oficial</text>
+    <text x="335" y="272" font-size="12" fill="#4b5563">Robot que no actúa si su confianza</text>
+    <text x="335" y="288" font-size="12" fill="#4b5563">baja de cierto umbral</text>
+  </g>
+
+  <g>
+    <rect x="598" y="94" width="270" height="196" rx="11" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+    <circle cx="626" cy="124" r="15" fill="#2563eb"/><text x="626" y="129" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">3</text>
+    <text x="652" y="123" font-size="14.5" font-weight="700" fill="#1e3a8a">Privacidad y seguridad</text>
+    <text x="652" y="141" font-size="11.5" fill="#6b7280" font-style="italic">Privacy &amp; Security</text>
+    <text x="618" y="172" font-size="12.5" fill="#374151">Los datos de entrenamiento</text>
+    <text x="618" y="190" font-size="12.5" fill="#374151">pueden incluir información</text>
+    <text x="618" y="208" font-size="12.5" fill="#374151">personal: deben mantenerse</text>
+    <text x="618" y="226" font-size="12.5" fill="#374151">seguros y no ser revelables.</text>
+    <text x="618" y="254" font-size="12" fill="#1d4ed8" font-weight="700">Ejemplo oficial</text>
+    <text x="618" y="272" font-size="12" fill="#4b5563">Reconocimiento facial en un</text>
+    <text x="618" y="288" font-size="12" fill="#4b5563">aeropuerto que borra las imágenes</text>
+  </g>
+
+  <g>
+    <rect x="32" y="304" width="270" height="196" rx="11" fill="#ffffff" stroke="#a7f3d0" stroke-width="2"/>
+    <circle cx="60" cy="334" r="15" fill="#0d9488"/><text x="60" y="339" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">4</text>
+    <text x="86" y="333" font-size="16" font-weight="700" fill="#115e59">Inclusión</text>
+    <text x="86" y="351" font-size="11.5" fill="#6b7280" font-style="italic">Inclusiveness</text>
+    <text x="52" y="382" font-size="12.5" fill="#374151">El potencial de la IA debe estar</text>
+    <text x="52" y="400" font-size="12.5" fill="#374151">abierto a todos. Las soluciones</text>
+    <text x="52" y="418" font-size="12.5" fill="#374151">no deben excluir a ningún</text>
+    <text x="52" y="436" font-size="12.5" fill="#374151">grupo de usuarios.</text>
+    <text x="52" y="464" font-size="12" fill="#0f766e" font-weight="700">Ejemplo oficial</text>
+    <text x="52" y="482" font-size="12" fill="#4b5563">Agente de voz que genera</text>
+    <text x="52" y="498" font-size="12" fill="#4b5563">subtítulos de texto</text>
+  </g>
+
+  <g>
+    <rect x="315" y="304" width="270" height="196" rx="11" fill="#ffffff" stroke="#a7f3d0" stroke-width="2"/>
+    <circle cx="343" cy="334" r="15" fill="#0d9488"/><text x="343" y="339" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">5</text>
+    <text x="369" y="333" font-size="16" font-weight="700" fill="#115e59">Transparencia</text>
+    <text x="369" y="351" font-size="11.5" fill="#6b7280" font-style="italic">Transparency</text>
+    <text x="335" y="382" font-size="12.5" fill="#374151">A veces la IA parece "mágica",</text>
+    <text x="335" y="400" font-size="12.5" fill="#374151">pero el usuario debe saber cómo</text>
+    <text x="335" y="418" font-size="12.5" fill="#374151">funciona el sistema y qué</text>
+    <text x="335" y="436" font-size="12.5" fill="#374151">limitaciones puede tener.</text>
+    <text x="335" y="464" font-size="12" fill="#0f766e" font-weight="700">Ejemplo oficial</text>
+    <text x="335" y="482" font-size="12" fill="#4b5563">Solicitud de préstamo que revela</text>
+    <text x="335" y="498" font-size="12" fill="#4b5563">que usa IA</text>
+  </g>
+
+  <g>
+    <rect x="598" y="304" width="270" height="196" rx="11" fill="#ffffff" stroke="#a7f3d0" stroke-width="2"/>
+    <circle cx="626" cy="334" r="15" fill="#0d9488"/><text x="626" y="339" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">6</text>
+    <text x="652" y="333" font-size="16" font-weight="700" fill="#115e59">Responsabilidad</text>
+    <text x="652" y="351" font-size="11.5" fill="#6b7280" font-style="italic">Accountability</text>
+    <text x="618" y="382" font-size="12.5" fill="#374151">Las personas y organizaciones</text>
+    <text x="618" y="400" font-size="12.5" fill="#374151">que desarrollan y distribuyen IA</text>
+    <text x="618" y="418" font-size="12.5" fill="#374151">responden por sus acciones y</text>
+    <text x="618" y="436" font-size="12.5" fill="#374151">deben aplicar gobernanza.</text>
+    <text x="618" y="464" font-size="12" fill="#0f766e" font-weight="700">La traducción práctica</text>
+    <text x="618" y="482" font-size="12" fill="#4b5563">"Lo escribió Copilot" no es una</text>
+    <text x="618" y="498" font-size="12" fill="#4b5563">defensa válida</text>
+  </g>
+
+  <text x="32" y="526" font-size="11.5" fill="#9ca3af">Definiciones tomadas de Microsoft Learn · Fundamentos de IA · Unidad "Inteligencia artificial responsable"</text>
+</svg>

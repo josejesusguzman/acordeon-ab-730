@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="560" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Las cuatro capas de mitigación</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Ninguna capa basta sola. La seguridad de un sistema de IA se construye apilándolas.</text>
+
+  <rect x="32" y="94" width="620" height="92" rx="10" fill="#eff6ff" stroke="#60a5fa" stroke-width="2"/>
+  <circle cx="66" cy="126" r="16" fill="#2563eb"/><text x="66" y="131" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">4</text>
+  <text x="94" y="124" font-size="16" font-weight="700" fill="#1e3a8a">Experiencia de usuario</text>
+  <text x="94" y="146" font-size="12.5" fill="#1e40af">Restringir las entradas a ciertos temas · validar entradas y salidas ·</text>
+  <text x="94" y="166" font-size="12.5" fill="#1e40af">documentar de forma transparente capacidades, límites y daños no mitigados</text>
+
+  <rect x="32" y="198" width="620" height="92" rx="10" fill="#f0fdfa" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="66" cy="230" r="16" fill="#0d9488"/><text x="66" y="235" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">3</text>
+  <text x="94" y="228" font-size="16" font-weight="700" fill="#115e59">Mensaje del sistema y fundamentación</text>
+  <text x="94" y="250" font-size="12.5" fill="#134e4a">Instrucciones que definen el comportamiento del modelo · ingeniería de prompts ·</text>
+  <text x="94" y="270" font-size="12.5" fill="#134e4a">RAG: recuperar datos de fuentes confiables y meterlos en el contexto</text>
+
+  <rect x="32" y="302" width="620" height="110" rx="10" fill="#fffbeb" stroke="#fbbf24" stroke-width="2"/>
+  <circle cx="66" cy="334" r="16" fill="#d97706"/><text x="66" y="339" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">2</text>
+  <text x="94" y="332" font-size="16" font-weight="700" fill="#92400e">Sistema de seguridad</text>
+  <text x="94" y="354" font-size="12.5" fill="#78350f">Límites de protección y filtros de contenido que clasifican en cuatro niveles</text>
+  <text x="94" y="374" font-size="12.5" fill="#78350f">de gravedad: seguro · bajo · medio · alto</text>
+  <text x="94" y="396" font-size="12.5" fill="#78350f">Escudos de solicitud con detección de abuso sistemático</text>
+
+  <rect x="32" y="424" width="620" height="92" rx="10" fill="#faf5ff" stroke="#a78bfa" stroke-width="2"/>
+  <circle cx="66" cy="456" r="16" fill="#7c3aed"/><text x="66" y="461" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">1</text>
+  <text x="94" y="454" font-size="16" font-weight="700" fill="#5b21b6">Modelo</text>
+  <text x="94" y="476" font-size="12.5" fill="#4c1d95">Elegir el modelo adecuado al caso de uso (no siempre el más grande) ·</text>
+  <text x="94" y="496" font-size="12.5" fill="#4c1d95">ajuste fino con datos propios para el escenario específico</text>
+
+  <rect x="672" y="94" width="196" height="318" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="690" y="124" font-size="14" font-weight="700" fill="#111827">Categorías de daño</text>
+  <text x="690" y="144" font-size="12" fill="#6b7280">que vigilan los filtros</text>
+  <text x="690" y="176" font-size="12.5" fill="#374151">· Odio y equidad</text>
+  <text x="690" y="200" font-size="12.5" fill="#374151">· Contenido sexual</text>
+  <text x="690" y="224" font-size="12.5" fill="#374151">· Violencia</text>
+  <text x="690" y="248" font-size="12.5" fill="#374151">· Autolesión</text>
+  <text x="690" y="272" font-size="12.5" fill="#374151">· Material protegido</text>
+  <text x="690" y="296" font-size="12.5" fill="#374151">· Jailbreak directo</text>
+  <text x="690" y="320" font-size="12.5" fill="#374151">· Jailbreak indirecto</text>
+  <text x="690" y="344" font-size="12.5" fill="#374151">· Vulnerabilidades</text>
+  <text x="700" y="362" font-size="12.5" fill="#374151">de código</text>
+  <text x="690" y="386" font-size="12.5" fill="#374151">· Atributos sin</text>
+  <text x="700" y="404" font-size="12.5" fill="#374151">fundamento</text>
+
+  <rect x="672" y="424" width="196" height="92" rx="10" fill="#f0fdf4" stroke="#86efac" stroke-width="1.5"/>
+  <text x="690" y="452" font-size="13" font-weight="700" fill="#14532d">En Copilot ya vienen</text>
+  <text x="690" y="474" font-size="12.5" fill="#166534">las cuatro capas puestas.</text>
+  <text x="690" y="494" font-size="12.5" fill="#166534">En un agente propio, tú</text>
+  <text x="690" y="510" font-size="12.5" fill="#166534">decides las capas 3 y 4.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 524" width="900" height="524" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="524" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Entrenar no es lo mismo que usar</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Confundir estas dos cosas es el origen del miedo más común: "¿mis documentos entrenan al modelo?".</text>
+
+  <text x="32" y="112" font-size="13" font-weight="700" fill="#7c3aed">ANTES · UNA SOLA VEZ · MESES Y MILLONES DE DÓLARES</text>
+  <rect x="32" y="126" width="252" height="132" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="1.5"/>
+  <text x="50" y="152" font-size="14" font-weight="700" fill="#5b21b6">1. Preentrenamiento</text>
+  <text x="50" y="176" font-size="12.5" fill="#4c1d95">Lee cantidades enormes de</text>
+  <text x="50" y="195" font-size="12.5" fill="#4c1d95">texto público y ajusta miles de</text>
+  <text x="50" y="214" font-size="12.5" fill="#4c1d95">millones de parámetros.</text>
+  <text x="50" y="240" font-size="12.5" fill="#6d28d9" font-style="italic">Aprende idioma y mundo.</text>
+
+  <rect x="300" y="126" width="252" height="132" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="1.5"/>
+  <text x="318" y="152" font-size="14" font-weight="700" fill="#5b21b6">2. Ajuste fino</text>
+  <text x="318" y="176" font-size="12.5" fill="#4c1d95">Con ejemplos de buenas</text>
+  <text x="318" y="195" font-size="12.5" fill="#4c1d95">respuestas aprende a</text>
+  <text x="318" y="214" font-size="12.5" fill="#4c1d95">comportarse como asistente.</text>
+  <text x="318" y="240" font-size="12.5" fill="#6d28d9" font-style="italic">Aprende a obedecer.</text>
+
+  <rect x="568" y="126" width="300" height="132" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="1.5"/>
+  <text x="586" y="152" font-size="14" font-weight="700" fill="#5b21b6">3. Alineación</text>
+  <text x="586" y="176" font-size="12.5" fill="#4c1d95">Personas califican respuestas y el</text>
+  <text x="586" y="195" font-size="12.5" fill="#4c1d95">modelo aprende a preferir las útiles</text>
+  <text x="586" y="214" font-size="12.5" fill="#4c1d95">y seguras sobre las dañinas.</text>
+  <text x="586" y="240" font-size="12.5" fill="#6d28d9" font-style="italic">Aprende a portarse bien.</text>
+
+  <line x1="450" y1="272" x2="450" y2="304" stroke="#6b7280" stroke-width="2" marker-end="url(#ar5)"/>
+  <defs><marker id="ar5" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#6b7280"/></marker></defs>
+  <text x="466" y="294" font-size="12.5" fill="#6b7280">el resultado es un modelo congelado</text>
+
+  <text x="32" y="336" font-size="13" font-weight="700" fill="#0f766e">DESPUÉS · CADA VEZ QUE ESCRIBES UN PROMPT · MILISEGUNDOS</text>
+  <rect x="32" y="350" width="836" height="76" rx="10" fill="#f0fdfa" stroke="#5eead4" stroke-width="1.5"/>
+  <text x="50" y="378" font-size="14" font-weight="700" fill="#115e59">Inferencia</text>
+  <text x="50" y="404" font-size="13" fill="#134e4a">El modelo ya no aprende nada. Recibe tu texto, predice tokens y responde. Es una calculadora enorme y fija:</text>
+  <text x="50" y="422" font-size="13" fill="#134e4a">le entra texto, le sale texto, y al terminar queda exactamente igual que antes.</text>
+
+  <rect x="32" y="440" width="836" height="64" rx="9" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="1.5"/>
+  <text x="50" y="466" font-size="13.5" fill="#065f46"><tspan font-weight="700">Por eso Microsoft puede afirmar que tus datos no entrenan el modelo:</tspan> tu contenido entra en la</text>
+  <text x="50" y="488" font-size="13.5" fill="#065f46">fase de inferencia, nunca en las tres fases de arriba.</text>
+</svg>

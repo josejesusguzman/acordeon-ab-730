@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="560" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Fundamentación: obligar al modelo a responder con tus documentos</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Si inventa cuando no sabe, la solución no es un modelo más listo: es no dejarlo depender de su memoria.</text>
+
+  <text x="32" y="110" font-size="13" font-weight="700" fill="#b91c1c">SIN FUNDAMENTACIÓN</text>
+  <rect x="32" y="122" width="836" height="72" rx="10" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+  <rect x="52" y="140" width="150" height="38" rx="7" fill="#ffffff" stroke="#fca5a5"/>
+  <text x="127" y="164" font-size="13" fill="#7f1d1d" text-anchor="middle" font-weight="600">tu pregunta</text>
+  <line x1="212" y1="159" x2="252" y2="159" stroke="#dc2626" stroke-width="2" marker-end="url(#arr)"/>
+  <defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#dc2626"/></marker></defs>
+  <rect x="262" y="140" width="170" height="38" rx="7" fill="#ffffff" stroke="#fca5a5"/>
+  <text x="347" y="164" font-size="13" fill="#7f1d1d" text-anchor="middle" font-weight="600">el modelo, de memoria</text>
+  <line x1="442" y1="159" x2="482" y2="159" stroke="#dc2626" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="492" y="140" width="180" height="38" rx="7" fill="#ffffff" stroke="#fca5a5"/>
+  <text x="582" y="164" font-size="13" fill="#7f1d1d" text-anchor="middle" font-weight="600">respuesta sin fuentes</text>
+  <text x="692" y="164" font-size="13" fill="#991b1b" font-weight="700">riesgo de alucinación</text>
+
+  <text x="32" y="232" font-size="13" font-weight="700" fill="#15803d">CON FUNDAMENTACIÓN — ASÍ TRABAJA MICROSOFT 365 COPILOT</text>
+
+  <rect x="32" y="248" width="836" height="196" rx="10" fill="#f0fdf4" stroke="#86efac" stroke-width="1.5"/>
+
+  <rect x="52" y="276" width="130" height="60" rx="8" fill="#ffffff" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="117" y="300" font-size="13" fill="#14532d" text-anchor="middle" font-weight="700">1. Tu prompt</text>
+  <text x="117" y="320" font-size="11.5" fill="#166534" text-anchor="middle">lo que pediste</text>
+
+  <line x1="190" y1="306" x2="222" y2="306" stroke="#16a34a" stroke-width="2" marker-end="url(#arg)"/>
+  <defs><marker id="arg" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#16a34a"/></marker></defs>
+
+  <rect x="230" y="266" width="160" height="80" rx="8" fill="#ffffff" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="310" y="290" font-size="13" fill="#14532d" text-anchor="middle" font-weight="700">2. Microsoft Graph</text>
+  <text x="310" y="310" font-size="11.5" fill="#166534" text-anchor="middle">recupera correos, archivos,</text>
+  <text x="310" y="326" font-size="11.5" fill="#166534" text-anchor="middle">chats y reuniones</text>
+
+  <line x1="398" y1="306" x2="430" y2="306" stroke="#16a34a" stroke-width="2" marker-end="url(#arg)"/>
+
+  <rect x="438" y="266" width="160" height="80" rx="8" fill="#ffffff" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="518" y="290" font-size="13" fill="#14532d" text-anchor="middle" font-weight="700">3. Contexto enriquecido</text>
+  <text x="518" y="310" font-size="11.5" fill="#166534" text-anchor="middle">tu pregunta + fragmentos</text>
+  <text x="518" y="326" font-size="11.5" fill="#166534" text-anchor="middle">reales de tus documentos</text>
+
+  <line x1="606" y1="306" x2="638" y2="306" stroke="#16a34a" stroke-width="2" marker-end="url(#arg)"/>
+
+  <rect x="646" y="266" width="200" height="80" rx="8" fill="#ffffff" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="746" y="290" font-size="13" fill="#14532d" text-anchor="middle" font-weight="700">4. Respuesta con citas</text>
+  <text x="746" y="310" font-size="11.5" fill="#166534" text-anchor="middle">cada afirmación apunta al</text>
+  <text x="746" y="326" font-size="11.5" fill="#166534" text-anchor="middle">documento del que salió</text>
+
+  <rect x="230" y="358" width="368" height="76" rx="8" fill="#ffffff" stroke="#bbf7d0" stroke-width="1.5"/>
+  <text x="248" y="382" font-size="12.5" fill="#14532d" font-weight="700">Filtro invisible pero decisivo</text>
+  <text x="248" y="404" font-size="12.5" fill="#166534">Graph solo recupera lo que TÚ ya tienes permiso de ver.</text>
+  <text x="248" y="423" font-size="12" fill="#166534">Copilot no abre puertas nuevas: usa las llaves que ya tienes.</text>
+
+  <rect x="646" y="358" width="200" height="76" rx="8" fill="#ffffff" stroke="#bbf7d0" stroke-width="1.5"/>
+  <text x="664" y="382" font-size="12.5" fill="#14532d" font-weight="700">Además</text>
+  <text x="664" y="402" font-size="12.5" fill="#166534">filtros de contenido y</text>
+  <text x="664" y="421" font-size="12" fill="#166534">etiquetas de confidencialidad</text>
+
+  <rect x="32" y="464" width="836" height="76" rx="9" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="50" y="492" font-size="14" fill="#111827" font-weight="700">La regla práctica que sale de todo esto</text>
+  <text x="50" y="518" font-size="13.5" fill="#374151">Las citas no son un adorno: son la prueba de que la respuesta salió de un documento real y no del cubo vectorial.</text>
+  <text x="50" y="536" font-size="13.5" fill="#111827" font-weight="700">Si una respuesta no trae fuentes, trátala como una hipótesis, no como un dato.</text>
+</svg>

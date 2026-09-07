@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="560" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">El motor completo: predecir el siguiente token, una y otra vez</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">No hay una base de datos de respuestas. Hay una apuesta, repetida cientos de veces por párrafo.</text>
+
+  <rect x="32" y="94" width="836" height="58" rx="9" fill="#ffffff" stroke="#d1d5db" stroke-width="1.5"/>
+  <text x="50" y="118" font-size="12" fill="#6b7280" font-weight="700">TEXTO HASTA AHORA</text>
+  <text x="50" y="140" font-size="15" fill="#111827">El contrato que firmamos en marzo con el proveedor de Monterrey vence el <tspan fill="#e11d48" font-weight="700">____</tspan></text>
+
+  <text x="32" y="188" font-size="13" font-weight="700" fill="#374151">El modelo calcula la probabilidad de cada token posible</text>
+
+  <g>
+    <text x="32" y="222" font-size="14" fill="#111827" font-weight="600">"15"</text>
+    <rect x="130" y="208" width="420" height="20" rx="5" fill="#2563eb"/>
+    <text x="562" y="223" font-size="13" fill="#1e40af" font-weight="700">42%</text>
+    <text x="32" y="256" font-size="14" fill="#111827" font-weight="600">"próximo"</text>
+    <rect x="130" y="242" width="210" height="20" rx="5" fill="#60a5fa"/>
+    <text x="352" y="257" font-size="13" fill="#1e40af" font-weight="700">21%</text>
+    <text x="32" y="290" font-size="14" fill="#111827" font-weight="600">"día"</text>
+    <rect x="130" y="276" width="120" height="20" rx="5" fill="#93c5fd"/>
+    <text x="262" y="291" font-size="13" fill="#1e40af" font-weight="700">12%</text>
+    <text x="32" y="324" font-size="14" fill="#111827" font-weight="600">"31"</text>
+    <rect x="130" y="310" width="90" height="20" rx="5" fill="#bfdbfe"/>
+    <text x="232" y="325" font-size="13" fill="#1e40af" font-weight="700">9%</text>
+    <text x="32" y="358" font-size="14" fill="#111827" font-weight="600">"lunes"</text>
+    <rect x="130" y="344" width="60" height="20" rx="5" fill="#dbeafe"/>
+    <text x="202" y="359" font-size="13" fill="#1e40af" font-weight="700">6%</text>
+    <text x="32" y="392" font-size="14" fill="#6b7280" font-weight="600">otros 50,000</text>
+    <rect x="130" y="378" width="100" height="20" rx="5" fill="#e5e7eb"/>
+    <text x="242" y="393" font-size="13" fill="#6b7280" font-weight="700">10%</text>
+  </g>
+
+  <rect x="612" y="196" width="256" height="212" rx="10" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="630" y="224" font-size="14" font-weight="700" fill="#1e3a8a">El bucle</text>
+  <text x="630" y="252" font-size="13" fill="#1e40af">1. Elige un token</text>
+  <text x="630" y="276" font-size="13" fill="#1e40af">2. Lo escribe</text>
+  <text x="630" y="300" font-size="13" fill="#1e40af">3. Vuelve a leer TODO,</text>
+  <text x="644" y="320" font-size="13" fill="#1e40af">incluido lo que</text>
+  <text x="644" y="340" font-size="13" fill="#1e40af">acaba de escribir</text>
+  <text x="630" y="368" font-size="13" fill="#1e40af">4. Repite</text>
+  <path d="M713 380 A 23 23 0 1 1 759 380" fill="none" stroke="#2563eb" stroke-width="2.5" marker-end="url(#ar3)"/>
+  <defs><marker id="ar3" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#2563eb"/></marker></defs>
+
+  <rect x="32" y="424" width="836" height="112" rx="9" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+  <text x="50" y="450" font-size="14" font-weight="700" fill="#991b1b">La consecuencia incómoda</text>
+  <text x="50" y="476" font-size="13.5" fill="#7f1d1d">Predecir el siguiente token NUNCA falla: siempre existe un token más probable, aunque el modelo no tenga</text>
+  <text x="50" y="498" font-size="13.5" fill="#7f1d1d">ni idea del tema. Por eso, cuando no sabe, produce lo que <tspan font-style="italic">suena</tspan> correcto en vez de decir "no sé".</text>
+  <text x="50" y="522" font-size="13.5" fill="#991b1b" font-weight="700">Eso es una alucinación, y no es un bug: es el mecanismo funcionando como fue diseñado.</text>
+</svg>

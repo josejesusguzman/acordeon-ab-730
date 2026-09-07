@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 570" width="900" height="570" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="570" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Tres aplicaciones, tres rutas: siempre hay por dónde</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Si Copilot no está donde esperas, baja de renglón. La práctica se puede terminar en cualquiera de las tres rutas.</text>
+
+  <rect x="158" y="94" width="228" height="42" rx="8" fill="#dcfce7" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="272" y="121" font-size="15" font-weight="700" fill="#14532d" text-anchor="middle">1 · Excel</text>
+  <rect x="394" y="94" width="228" height="42" rx="8" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="508" y="121" font-size="15" font-weight="700" fill="#1e3a8a" text-anchor="middle">2 · Word</text>
+  <rect x="630" y="94" width="238" height="42" rx="8" fill="#ffedd5" stroke="#fb923c" stroke-width="1.5"/>
+  <text x="749" y="121" font-size="15" font-weight="700" fill="#9a3412" text-anchor="middle">3 · PowerPoint</text>
+
+  <rect x="32" y="148" width="118" height="118" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="91" y="196" font-size="13" font-weight="700" fill="#334155" text-anchor="middle">Ruta A</text>
+  <text x="91" y="216" font-size="12" fill="#475569" text-anchor="middle">Escritorio</text>
+  <text x="91" y="234" font-size="11.5" fill="#64748b" text-anchor="middle">con licencia</text>
+
+  <rect x="32" y="274" width="118" height="118" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="91" y="322" font-size="13" font-weight="700" fill="#334155" text-anchor="middle">Ruta B</text>
+  <text x="91" y="342" font-size="12" fill="#475569" text-anchor="middle">Navegador</text>
+  <text x="91" y="360" font-size="11.5" fill="#64748b" text-anchor="middle">con licencia</text>
+
+  <rect x="32" y="400" width="118" height="126" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+  <text x="91" y="448" font-size="13" font-weight="700" fill="#991b1b" text-anchor="middle">Ruta C</text>
+  <text x="91" y="468" font-size="12" fill="#b91c1c" text-anchor="middle">Sin licencia</text>
+  <text x="91" y="486" font-size="11.5" fill="#dc2626" text-anchor="middle">de Copilot</text>
+
+  <rect x="158" y="148" width="228" height="118" rx="8" fill="#ffffff" stroke="#bbf7d0" stroke-width="1.5"/>
+  <text x="174" y="174" font-size="12.5" fill="#166534">Icono de Copilot abajo</text>
+  <text x="174" y="194" font-size="12.5" fill="#166534">a la derecha</text>
+  <text x="174" y="220" font-size="12.5" fill="#14532d" font-weight="700">Modos: edición, chat</text>
+  <text x="174" y="238" font-size="12.5" fill="#14532d" font-weight="700">y planeación</text>
+  <text x="174" y="258" font-size="11.5" fill="#6b7280">Windows y Mac</text>
+
+  <rect x="394" y="148" width="228" height="118" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="410" y="174" font-size="12.5" fill="#1e40af">Cuadro de indicaciones</text>
+  <text x="410" y="194" font-size="12.5" fill="#1e40af">en documento en blanco</text>
+  <text x="410" y="220" font-size="12.5" fill="#1e3a8a" font-weight="700">Referencia con /</text>
+  <text x="410" y="238" font-size="12.5" fill="#1e3a8a" font-weight="700">hasta 20 archivos</text>
+  <text x="410" y="258" font-size="11.5" fill="#6b7280">Word, PPTX, PDF o TXT</text>
+
+  <rect x="630" y="148" width="238" height="118" rx="8" fill="#ffffff" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="646" y="174" font-size="12.5" fill="#9a3412">Icono de Copilot abajo</text>
+  <text x="646" y="194" font-size="12.5" fill="#9a3412">a la derecha</text>
+  <text x="646" y="220" font-size="12.5" fill="#7c2d12" font-weight="700">Agregar contenido →</text>
+  <text x="646" y="238" font-size="12.5" fill="#7c2d12" font-weight="700">modo agente</text>
+  <text x="646" y="258" font-size="11.5" fill="#6b7280">Desde archivo Word o PDF</text>
+
+  <rect x="158" y="274" width="228" height="118" rx="8" fill="#ffffff" stroke="#bbf7d0" stroke-width="1.5"/>
+  <text x="174" y="300" font-size="12.5" fill="#166534">Mismas capacidades que</text>
+  <text x="174" y="320" font-size="12.5" fill="#166534">en escritorio</text>
+  <text x="174" y="346" font-size="12.5" fill="#14532d" font-weight="700">Es la salida cuando el</text>
+  <text x="174" y="364" font-size="12.5" fill="#14532d" font-weight="700">archivo está desprotegido</text>
+  <text x="174" y="382" font-size="12.5" fill="#14532d" font-weight="700">en SharePoint</text>
+
+  <rect x="394" y="274" width="228" height="118" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="410" y="300" font-size="12.5" fill="#1e40af">Funciona igual que en</text>
+  <text x="410" y="320" font-size="12.5" fill="#1e40af">escritorio</text>
+  <text x="410" y="346" font-size="12.5" fill="#1e3a8a" font-weight="700">Es la única ruta si usas</text>
+  <text x="410" y="364" font-size="12.5" fill="#1e3a8a" font-weight="700">Copilot Pro personal</text>
+  <text x="410" y="384" font-size="11.5" fill="#6b7280">para referenciar archivos</text>
+
+  <rect x="630" y="274" width="238" height="118" rx="8" fill="#ffffff" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="646" y="300" font-size="12.5" fill="#9a3412">Crear desde archivo</text>
+  <text x="646" y="320" font-size="12.5" fill="#9a3412">disponible</text>
+  <text x="646" y="346" font-size="12.5" fill="#7c2d12" font-weight="700">Aplica la plantilla</text>
+  <text x="646" y="364" font-size="12.5" fill="#7c2d12" font-weight="700">corporativa al final</text>
+  <text x="646" y="384" font-size="11.5" fill="#6b7280">El diseño siempre es tuyo</text>
+
+  <rect x="158" y="400" width="228" height="126" rx="8" fill="#fffbfb" stroke="#fecaca" stroke-width="1.5"/>
+  <text x="174" y="426" font-size="12.5" fill="#991b1b">Sube el .xlsx o .csv a</text>
+  <text x="174" y="446" font-size="12.5" fill="#991b1b">Copilot Chat</text>
+  <text x="174" y="472" font-size="12.5" fill="#7f1d1d" font-weight="700">O usa el agente Analista</text>
+  <text x="174" y="496" font-size="11.5" fill="#6b7280">Nativo: Analizar datos</text>
+  <text x="174" y="514" font-size="11.5" fill="#6b7280">y Análisis rápido</text>
+
+  <rect x="394" y="400" width="228" height="126" rx="8" fill="#fffbfb" stroke="#fecaca" stroke-width="1.5"/>
+  <text x="410" y="426" font-size="12.5" fill="#991b1b">Redacta en Copilot Chat</text>
+  <text x="410" y="446" font-size="12.5" fill="#991b1b">y pega en Word</text>
+  <text x="410" y="472" font-size="12.5" fill="#7f1d1d" font-weight="700">O usa Páginas de Copilot</text>
+  <text x="410" y="496" font-size="11.5" fill="#6b7280">y conviértelas a Word</text>
+  <text x="410" y="514" font-size="11.5" fill="#6b7280">con un clic</text>
+
+  <rect x="630" y="400" width="238" height="126" rx="8" fill="#fffbfb" stroke="#fecaca" stroke-width="1.5"/>
+  <text x="646" y="426" font-size="12.5" fill="#991b1b">Pide el guion diapositiva</text>
+  <text x="646" y="446" font-size="12.5" fill="#991b1b">por diapositiva en el chat</text>
+  <text x="646" y="472" font-size="12.5" fill="#7f1d1d" font-weight="700">Pégalo en el Esquema</text>
+  <text x="646" y="496" font-size="11.5" fill="#6b7280">Nativo: Diseñador de</text>
+  <text x="646" y="514" font-size="11.5" fill="#6b7280">PowerPoint para el diseño</text>
+
+  <text x="32" y="552" font-size="11.5" fill="#9ca3af">La ruta C no es un premio de consolación: es la que va a usar la mitad de tu grupo el primer día.</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="480" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">El ciclo de una solución de IA generativa responsable</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Cuatro etapas. No es un trámite previo: es un ciclo que se repite mientras la solución esté viva.</text>
+
+  <defs><marker id="arc" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#7c3aed"/></marker></defs>
+
+  <rect x="32" y="100" width="196" height="212" rx="11" fill="#faf5ff" stroke="#c4b5fd" stroke-width="2"/>
+  <circle cx="60" cy="130" r="15" fill="#7c3aed"/><text x="60" y="135" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">1</text>
+  <text x="86" y="136" font-size="16" font-weight="700" fill="#5b21b6">Mapear</text>
+  <text x="50" y="170" font-size="12.5" fill="#4c1d95">Identificar los daños</text>
+  <text x="50" y="188" font-size="12.5" fill="#4c1d95">posibles</text>
+  <text x="50" y="212" font-size="12.5" fill="#4c1d95">Priorizarlos por</text>
+  <text x="50" y="230" font-size="12.5" fill="#4c1d95">probabilidad × impacto</text>
+  <text x="50" y="254" font-size="12.5" fill="#4c1d95">Probarlos con</text>
+  <text x="50" y="272" font-size="12.5" fill="#6d28d9" font-weight="700">red teaming</text>
+  <text x="50" y="296" font-size="12.5" fill="#4c1d95">Documentar y compartir</text>
+
+  <line x1="236" y1="206" x2="264" y2="206" stroke="#7c3aed" stroke-width="2.5" marker-end="url(#arc)"/>
+
+  <rect x="272" y="100" width="196" height="212" rx="11" fill="#faf5ff" stroke="#c4b5fd" stroke-width="2"/>
+  <circle cx="300" cy="130" r="15" fill="#7c3aed"/><text x="300" y="135" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">2</text>
+  <text x="326" y="136" font-size="16" font-weight="700" fill="#5b21b6">Medir</text>
+  <text x="290" y="170" font-size="12.5" fill="#4c1d95">Preparar prompts que</text>
+  <text x="290" y="188" font-size="12.5" fill="#4c1d95">provoquen cada daño</text>
+  <text x="290" y="212" font-size="12.5" fill="#4c1d95">Enviarlos y recoger</text>
+  <text x="290" y="230" font-size="12.5" fill="#4c1d95">las salidas</text>
+  <text x="290" y="254" font-size="12.5" fill="#4c1d95">Evaluar con criterios</text>
+  <text x="290" y="272" font-size="12.5" fill="#4c1d95">definidos de antemano</text>
+  <text x="290" y="296" font-size="12.5" fill="#6d28d9" font-weight="700">Establecer una línea base</text>
+
+  <line x1="476" y1="206" x2="504" y2="206" stroke="#7c3aed" stroke-width="2.5" marker-end="url(#arc)"/>
+
+  <rect x="512" y="100" width="176" height="212" rx="11" fill="#faf5ff" stroke="#c4b5fd" stroke-width="2"/>
+  <circle cx="540" cy="130" r="15" fill="#7c3aed"/><text x="540" y="135" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">3</text>
+  <text x="566" y="136" font-size="16" font-weight="700" fill="#5b21b6">Mitigar</text>
+  <text x="530" y="170" font-size="12.5" fill="#4c1d95">Aplicar controles en</text>
+  <text x="530" y="188" font-size="12.5" fill="#6d28d9" font-weight="700">cuatro capas</text>
+  <text x="530" y="214" font-size="12.5" fill="#4c1d95">· Modelo</text>
+  <text x="530" y="234" font-size="12.5" fill="#4c1d95">· Sistema de seguridad</text>
+  <text x="530" y="254" font-size="12.5" fill="#4c1d95">· Mensaje del sistema</text>
+  <text x="540" y="272" font-size="12.5" fill="#4c1d95">y fundamentación</text>
+  <text x="530" y="292" font-size="12.5" fill="#4c1d95">· Experiencia de usuario</text>
+
+  <line x1="696" y1="206" x2="724" y2="206" stroke="#7c3aed" stroke-width="2.5" marker-end="url(#arc)"/>
+
+  <rect x="732" y="100" width="136" height="212" rx="11" fill="#faf5ff" stroke="#c4b5fd" stroke-width="2"/>
+  <circle cx="760" cy="130" r="15" fill="#7c3aed"/><text x="760" y="135" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">4</text>
+  <text x="786" y="136" font-size="16" font-weight="700" fill="#5b21b6">Operar</text>
+  <text x="750" y="170" font-size="12" fill="#4c1d95">Revisiones: legal,</text>
+  <text x="750" y="188" font-size="12" fill="#4c1d95">privacidad, seguridad</text>
+  <text x="750" y="206" font-size="12" fill="#4c1d95">y accesibilidad</text>
+  <text x="750" y="230" font-size="12" fill="#4c1d95">Entrega por fases</text>
+  <text x="750" y="254" font-size="12" fill="#4c1d95">Plan de incidentes</text>
+  <text x="750" y="272" font-size="12" fill="#4c1d95">y de reversión</text>
+  <text x="750" y="296" font-size="12" fill="#4c1d95">Telemetría y reportes</text>
+
+  <path d="M800 322 C 800 372, 120 372, 120 326" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#arc)"/>
+  <text x="450" y="386" font-size="13" fill="#6d28d9" font-weight="700" text-anchor="middle">Lo que aprendes operando vuelve a alimentar el mapa de daños</text>
+
+  <rect x="32" y="404" width="836" height="58" rx="9" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="50" y="428" font-size="13" fill="#374151"><tspan font-weight="700">Ejemplo oficial del módulo (el "copiloto de cocina"):</tspan> una receta con tiempos de cocción imprecisos tiene impacto</text>
+  <text x="50" y="448" font-size="13" fill="#374151">moderado pero probabilidad alta; una receta de veneno tiene impacto muy alto y probabilidad baja. Ambos se priorizan.</text>
+</svg>

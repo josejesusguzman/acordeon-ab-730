@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="450" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">La ventana de contexto: lo que no cabe, no existe</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">El modelo no tiene memoria. Tiene un escritorio de tamaño fijo donde cabe lo que se le pone enfrente.</text>
+
+  <text x="60" y="112" font-size="13" font-weight="700" fill="#6b7280">TODO TU MATERIAL</text>
+  <rect x="60" y="124" width="150" height="290" rx="8" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1.5"/>
+  <g fill="#d1d5db">
+    <rect x="76" y="140" width="118" height="7" rx="3"/><rect x="76" y="154" width="100" height="7" rx="3"/>
+    <rect x="76" y="168" width="118" height="7" rx="3"/><rect x="76" y="182" width="88" height="7" rx="3"/>
+    <rect x="76" y="196" width="118" height="7" rx="3"/><rect x="76" y="210" width="106" height="7" rx="3"/>
+    <rect x="76" y="224" width="118" height="7" rx="3"/><rect x="76" y="238" width="94" height="7" rx="3"/>
+    <rect x="76" y="252" width="118" height="7" rx="3"/><rect x="76" y="266" width="112" height="7" rx="3"/>
+    <rect x="76" y="280" width="118" height="7" rx="3"/><rect x="76" y="294" width="80" height="7" rx="3"/>
+    <rect x="76" y="308" width="118" height="7" rx="3"/><rect x="76" y="322" width="102" height="7" rx="3"/>
+    <rect x="76" y="336" width="118" height="7" rx="3"/><rect x="76" y="350" width="90" height="7" rx="3"/>
+    <rect x="76" y="364" width="118" height="7" rx="3"/><rect x="76" y="378" width="110" height="7" rx="3"/>
+    <rect x="76" y="392" width="70" height="7" rx="3"/>
+  </g>
+
+  <rect x="50" y="188" width="170" height="106" rx="8" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <rect x="50" y="188" width="170" height="106" rx="8" fill="#2563eb" fill-opacity="0.10"/>
+  <text x="135" y="180" font-size="12" fill="#1e3a8a" font-weight="700" text-anchor="middle">ventana de contexto</text>
+
+  <defs><marker id="ar4" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#2563eb"/></marker></defs>
+  <line x1="232" y1="240" x2="308" y2="240" stroke="#2563eb" stroke-width="2" marker-end="url(#ar4)"/>
+
+  <rect x="320" y="150" width="230" height="180" rx="10" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="435" y="180" font-size="15" font-weight="700" fill="#1e3a8a" text-anchor="middle">EL MODELO</text>
+  <text x="340" y="212" font-size="13" fill="#1e40af">Solo puede razonar sobre</text>
+  <text x="340" y="234" font-size="13" fill="#1e40af">lo que está dentro de la</text>
+  <text x="340" y="256" font-size="13" fill="#1e40af">ventana en ese momento.</text>
+  <text x="340" y="292" font-size="13" fill="#1e40af" font-weight="700">Lo de afuera, para él,</text>
+  <text x="340" y="312" font-size="13" fill="#1e40af" font-weight="700">simplemente no existe.</text>
+
+  <rect x="586" y="124" width="282" height="118" rx="10" fill="#fffbeb" stroke="#fcd34d" stroke-width="1.5"/>
+  <text x="606" y="152" font-size="14" font-weight="700" fill="#78350f">Dónde lo ves en Copilot</text>
+  <text x="606" y="180" font-size="13" fill="#78350f">Los Cuadernos aceptan más de 20</text>
+  <text x="606" y="200" font-size="13" fill="#78350f">referencias, pero solo usan las</text>
+  <text x="606" y="220" font-size="13" fill="#78350f">primeras 20 para fundamentar.</text>
+
+  <rect x="586" y="258" width="282" height="156" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="606" y="286" font-size="14" font-weight="700" fill="#111827">Qué hacer al respecto</text>
+  <text x="606" y="314" font-size="13" fill="#374151">Referencia el archivo exacto</text>
+  <text x="606" y="334" font-size="13" fill="#374151">con <tspan font-weight="700" fill="#1d4ed8">/nombre.docx</tspan> en vez de</text>
+  <text x="606" y="354" font-size="13" fill="#374151">esperar que adivine.</text>
+  <text x="606" y="384" font-size="13" fill="#111827" font-weight="700">Pocas fuentes bien elegidas</text>
+  <text x="606" y="404" font-size="13" fill="#111827" font-weight="700">&gt; muchas fuentes revueltas.</text>
+</svg>

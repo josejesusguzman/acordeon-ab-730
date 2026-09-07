@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="500" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">Tokens: en qué pedacitos parte el modelo tu texto</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Un token no es una palabra. Es la unidad mínima que el modelo sabe manejar, y cuesta dinero.</text>
+
+  <text x="32" y="110" font-size="13" font-weight="700" fill="#374151">1. Una frase normal</text>
+  <text x="32" y="134" font-size="14" fill="#111827" font-style="italic">"La factura del proveedor vence mañana"</text>
+
+  <g>
+    <rect x="32" y="152" width="52" height="38" rx="7" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="58" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">La</text>
+    <rect x="92" y="152" width="86" height="38" rx="7" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="135" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">factura</text>
+    <rect x="186" y="152" width="52" height="38" rx="7" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="212" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">del</text>
+    <rect x="246" y="152" width="66" height="38" rx="7" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="279" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">prove</text>
+    <rect x="320" y="152" width="54" height="38" rx="7" fill="#bfdbfe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="347" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">edor</text>
+    <rect x="382" y="152" width="52" height="38" rx="7" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="408" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">ven</text>
+    <rect x="442" y="152" width="42" height="38" rx="7" fill="#bfdbfe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="463" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">ce</text>
+    <rect x="492" y="152" width="62" height="38" rx="7" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="523" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">maña</text>
+    <rect x="562" y="152" width="40" height="38" rx="7" fill="#bfdbfe" stroke="#60a5fa" stroke-width="1.5"/>
+    <text x="582" y="176" font-size="14" fill="#1e3a8a" text-anchor="middle" font-weight="600">na</text>
+  </g>
+  <text x="614" y="176" font-size="13" fill="#6b7280">= 9 tokens, no 6 palabras</text>
+
+  <text x="32" y="232" font-size="13" font-weight="700" fill="#374151">2. Una palabra larga se parte sola</text>
+  <rect x="32" y="248" width="150" height="38" rx="7" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1.5"/>
+  <text x="107" y="272" font-size="15" fill="#111827" text-anchor="middle" font-weight="600">Inteligencia</text>
+  <line x1="192" y1="267" x2="228" y2="267" stroke="#6b7280" stroke-width="1.8" marker-end="url(#ar2)"/>
+  <defs><marker id="ar2" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#6b7280"/></marker></defs>
+  <rect x="238" y="248" width="60" height="38" rx="7" fill="#ede9fe" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="268" y="272" font-size="14" fill="#5b21b6" text-anchor="middle" font-weight="600">Intel</text>
+  <rect x="306" y="248" width="60" height="38" rx="7" fill="#ede9fe" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="336" y="272" font-size="14" fill="#5b21b6" text-anchor="middle" font-weight="600">igen</text>
+  <rect x="374" y="248" width="54" height="38" rx="7" fill="#ede9fe" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="401" y="272" font-size="14" fill="#5b21b6" text-anchor="middle" font-weight="600">cia</text>
+  <text x="444" y="272" font-size="13" fill="#6b7280">3 tokens para una sola palabra</text>
+
+  <text x="32" y="332" font-size="13" font-weight="700" fill="#374151">3. Y el español cuesta más que el inglés</text>
+  <text x="32" y="360" font-size="13" fill="#4b5563">EN "The invoice is due tomorrow"</text>
+  <rect x="340" y="346" width="170" height="20" rx="5" fill="#34d399"/>
+  <text x="522" y="361" font-size="13" fill="#065f46" font-weight="700">~6 tokens</text>
+  <text x="32" y="392" font-size="13" fill="#4b5563">ES "La factura del proveedor..."</text>
+  <rect x="340" y="378" width="255" height="20" rx="5" fill="#fbbf24"/>
+  <text x="607" y="393" font-size="13" fill="#92400e" font-weight="700">~9 tokens</text>
+
+  <rect x="32" y="418" width="836" height="56" rx="9" fill="#fffbeb" stroke="#fcd34d" stroke-width="1.5"/>
+  <text x="50" y="442" font-size="13" fill="#78350f"><tspan font-weight="700">Por qué te importa: </tspan>los límites de las herramientas (ventana de contexto, costo por consulta, cuota de agentes) se</text>
+  <text x="50" y="462" font-size="13" fill="#78350f">miden en tokens. Un mismo texto en español consume del 20% al 50% más que en inglés.</text>
+</svg>

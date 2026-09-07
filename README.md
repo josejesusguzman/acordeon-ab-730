@@ -33,7 +33,7 @@ Aquí tienes el acordeón no oficial de la certificación **AB-730: Microsoft Ce
 > [!IMPORTANT]
 > Recuerda que la evaluación de práctica de Microsoft y los Kahoot! los puedes hacer las veces que quieras, cuando quieras y sin límite de tiempo. Esto es para que practiques y te prepares.
 
-- [**Evaluación de práctica oficial de Microsoft (gratuita)**](https://learn.microsoft.com/es-es/credentials/certifications/ai-business-professional/practice/assessment?assessment-type=practice&assessmentId=650120434&practice-assessment-type=certification)
+- [Evaluación de práctica oficial de Microsoft (gratuita)](https://learn.microsoft.com/es-es/credentials/certifications/ai-business-professional/practice/assessment?assessment-type=practice&assessmentId=650120434&practice-assessment-type=certification)
 - [Preguntas rápidas para repasar](/docs/preguntas-rapidas.md)
 - **[-> Kahoot 1 <- DA CLIC AQUÍ PARA HACER EL EXAMEN PRÁCTICA](https://kahoot.it/challenge/005254661?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1787843433769)**
 - `--> Kahoot 2 <--` *(pendiente)*
@@ -139,8 +139,8 @@ Copilot en Excel —con su requisito de OneDrive que tumba a mucha gente— y el
 
 ### Prácticas complementarias
 
-- [Práctica 1: De hoja cruda a decisión, con el agente Analista](/docs/modulo4/practica1.md)
-- [Práctica 2: Rescata el archivo que nadie entiende](/docs/modulo4/practica2.md)
+- [Práctica 1: De hoja cruda a decisión ejecutiva — Excel, Word y PowerPoint](/docs/modulo4/practica1.md)
+- [Práctica 2: Rescata el archivo que nadie entiende — Excel, Word y PowerPoint](/docs/modulo4/practica2.md)
 
 ---
 ## 5. Administración de reuniones y colaboración

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="560" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">El cubo vectorial: el significado como posición</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">Cada palabra se convierte en una coordenada. Las que significan cosas parecidas caen cerca unas de otras.</text>
+
+  <!-- cara trasera -->
+  <polygon points="300,110 610,110 610,400 300,400" fill="#eef2ff" stroke="#c7d2fe" stroke-width="1.5"/>
+  <!-- aristas de profundidad -->
+  <line x1="150" y1="220" x2="300" y2="110" stroke="#c7d2fe" stroke-width="1.5"/>
+  <line x1="460" y1="220" x2="610" y2="110" stroke="#c7d2fe" stroke-width="1.5"/>
+  <line x1="460" y1="510" x2="610" y2="400" stroke="#c7d2fe" stroke-width="1.5"/>
+  <line x1="150" y1="510" x2="300" y2="400" stroke="#c7d2fe" stroke-width="1.5"/>
+  <!-- cara frontal -->
+  <polygon points="150,220 460,220 460,510 150,510" fill="#ffffff" fill-opacity="0.55" stroke="#818cf8" stroke-width="2"/>
+
+  <!-- cluster documentos -->
+  <ellipse cx="487" cy="185" rx="88" ry="58" fill="#fef3c7" fill-opacity="0.75" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <circle cx="452" cy="163" r="5" fill="#d97706"/><text x="462" y="160" font-size="13" fill="#92400e" font-weight="600">factura</text>
+  <circle cx="510" cy="150" r="5" fill="#d97706"/><text x="520" y="147" font-size="13" fill="#92400e" font-weight="600">recibo</text>
+  <circle cx="443" cy="205" r="5" fill="#d97706"/><text x="453" y="216" font-size="13" fill="#92400e" font-weight="600">contrato</text>
+  <circle cx="521" cy="200" r="5" fill="#d97706"/><text x="531" y="211" font-size="13" fill="#92400e" font-weight="600">CFDI</text>
+
+  <!-- cluster animales -->
+  <ellipse cx="232" cy="432" rx="82" ry="56" fill="#ccfbf1" fill-opacity="0.75" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <circle cx="215" cy="415" r="5" fill="#0d9488"/><text x="225" y="412" font-size="13" fill="#115e59" font-weight="600">perro</text>
+  <circle cx="262" cy="398" r="5" fill="#0d9488"/><text x="272" y="395" font-size="13" fill="#115e59" font-weight="600">gato</text>
+  <circle cx="200" cy="455" r="5" fill="#0d9488"/><text x="210" y="470" font-size="13" fill="#115e59" font-weight="600">caballo</text>
+
+  <!-- distancias -->
+  <line x1="215" y1="415" x2="262" y2="398" stroke="#0d9488" stroke-width="2.5"/>
+  <text x="196" y="502" font-size="12" fill="#0f766e" font-weight="600">cerca = significan algo parecido</text>
+  <line x1="215" y1="415" x2="452" y2="163" stroke="#9ca3af" stroke-width="1.6" stroke-dasharray="6 5"/>
+  <text x="286" y="288" font-size="12" fill="#6b7280" font-weight="600" transform="rotate(-46 286 288)">lejos = nada que ver</text>
+
+  <!-- ejes -->
+  <defs>
+    <marker id="ar" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#6b7280"/>
+    </marker>
+  </defs>
+  <line x1="150" y1="530" x2="440" y2="530" stroke="#6b7280" stroke-width="1.5" marker-end="url(#ar)"/>
+  <text x="228" y="548" font-size="12" fill="#4b5563">eje X: ¿qué tan vivo?</text>
+  <line x1="132" y1="510" x2="132" y2="240" stroke="#6b7280" stroke-width="1.5" marker-end="url(#ar)"/>
+  <text x="126" y="380" font-size="12" fill="#4b5563" transform="rotate(-90 126 380)">eje Y: ¿qué tan doméstico?</text>
+  <line x1="166" y1="206" x2="288" y2="119" stroke="#6b7280" stroke-width="1.5" marker-end="url(#ar)"/>
+  <text x="178" y="214" font-size="12" fill="#4b5563" transform="rotate(-35 178 214)">eje Z: ¿qué tan grande?</text>
+
+  <!-- panel derecho -->
+  <rect x="648" y="120" width="222" height="300" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="666" y="150" font-size="14" font-weight="700" fill="#111827">Lo que hay que retener</text>
+  <text x="666" y="180" font-size="12.5" fill="#374151">A esa coordenada se le llama</text>
+  <text x="666" y="199" font-size="12.5" fill="#1d4ed8" font-weight="700">vector o embedding.</text>
+  <text x="666" y="228" font-size="12.5" fill="#374151">A la distancia entre dos de</text>
+  <text x="666" y="247" font-size="12.5" fill="#374151">ellos se le llama</text>
+  <text x="666" y="266" font-size="12.5" fill="#1d4ed8" font-weight="700">similitud semántica.</text>
+  <line x1="666" y1="286" x2="852" y2="286" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="666" y="312" font-size="12.5" fill="#374151">El cubo real no tiene 3 ejes:</text>
+  <text x="666" y="331" font-size="12.5" fill="#374151">tiene cientos o miles. El de</text>
+  <text x="666" y="350" font-size="12.5" fill="#374151">Azure OpenAI</text>
+  <text x="666" y="369" font-size="12.5" fill="#111827" font-weight="700">text-embedding-ada-002</text>
+  <text x="666" y="388" font-size="12.5" fill="#374151">usa <tspan font-weight="700" fill="#111827">1,536 dimensiones.</tspan></text>
+  <text x="666" y="406" font-size="12" fill="#6b7280">Nadie puede dibujarlo.</text>
+</svg>
