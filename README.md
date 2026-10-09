@@ -164,7 +164,7 @@ Antes, durante y después de una reunión. Más Páginas y Cuadernos de Copilot,
 ### Prácticas complementarias
 
 - [Práctica 1: El ciclo completo de una reunión](/docs/modulo5/practica1.md)
-- [Práctica 2: Cuaderno de proyecto y página compartida](/docs/modulo5/practica2.md)
+- [Práctica 2: El espacio de trabajo de un proyecto — Cuadernos y Páginas](/docs/modulo5/practica2.md)
 
 ---
 ## 6. Definir el rol de Copilot en tu flujo de trabajo

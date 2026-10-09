@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" width="900" height="550" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+  <rect x="0" y="0" width="900" height="550" rx="14" fill="#fbfbfd" stroke="#e5e7eb" stroke-width="1.5"/>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#111827">¿Chat, cuaderno, página o documento?</text>
+  <text x="32" y="70" font-size="14" fill="#4b5563">La pregunta no es cuál es mejor, sino cuánto va a durar lo que estás haciendo y quién más lo va a tocar.</text>
+
+  <rect x="32" y="96" width="200" height="40" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="132" y="122" font-size="14.5" font-weight="700" fill="#334155" text-anchor="middle">Chat normal</text>
+  <rect x="244" y="96" width="200" height="40" rx="8" fill="#ede9fe" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="344" y="122" font-size="14.5" font-weight="700" fill="#5b21b6" text-anchor="middle">Cuaderno</text>
+  <rect x="456" y="96" width="200" height="40" rx="8" fill="#dbeafe" stroke="#60a5fa" stroke-width="1.5"/>
+  <text x="556" y="122" font-size="14.5" font-weight="700" fill="#1e3a8a" text-anchor="middle">Página</text>
+  <rect x="668" y="96" width="200" height="40" rx="8" fill="#dcfce7" stroke="#4ade80" stroke-width="1.5"/>
+  <text x="768" y="122" font-size="14.5" font-weight="700" fill="#14532d" text-anchor="middle">Documento de Word</text>
+
+  <rect x="32" y="148" width="200" height="248" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="48" y="176" font-size="12" font-weight="700" fill="#64748b">CUÁNDO</text>
+  <text x="48" y="198" font-size="12.5" fill="#334155">Necesitas una respuesta</text>
+  <text x="48" y="216" font-size="12.5" fill="#334155">ahora y no vas a volver</text>
+  <text x="48" y="234" font-size="12.5" fill="#334155">a ella</text>
+  <text x="48" y="266" font-size="12" font-weight="700" fill="#64748b">DÓNDE VIVE</text>
+  <text x="48" y="288" font-size="12.5" fill="#334155">En tu historial de</text>
+  <text x="48" y="306" font-size="12.5" fill="#334155">conversaciones</text>
+  <text x="48" y="338" font-size="12" font-weight="700" fill="#64748b">QUIÉN ENTRA</text>
+  <text x="48" y="360" font-size="12.5" fill="#334155">Solo tú</text>
+  <text x="48" y="384" font-size="11.5" fill="#94a3b8" font-style="italic">Se pierde en el ruido</text>
+
+  <rect x="244" y="148" width="200" height="248" rx="10" fill="#ffffff" stroke="#ddd6fe" stroke-width="1.5"/>
+  <text x="260" y="176" font-size="12" font-weight="700" fill="#7c3aed">CUÁNDO</text>
+  <text x="260" y="198" font-size="12.5" fill="#4c1d95">Vas a consultar muchas</text>
+  <text x="260" y="216" font-size="12.5" fill="#4c1d95">fuentes durante semanas</text>
+  <text x="260" y="234" font-size="12.5" fill="#4c1d95">o meses</text>
+  <text x="260" y="266" font-size="12" font-weight="700" fill="#7c3aed">DÓNDE VIVE</text>
+  <text x="260" y="288" font-size="12.5" fill="#4c1d95">Contenedor personal</text>
+  <text x="260" y="306" font-size="12.5" fill="#4c1d95">del que lo creó</text>
+  <text x="260" y="338" font-size="12" font-weight="700" fill="#7c3aed">QUIÉN ENTRA</text>
+  <text x="260" y="360" font-size="12.5" fill="#4c1d95">Personas invitadas,</text>
+  <text x="260" y="378" font-size="12.5" fill="#991b1b" font-weight="700">siempre con edición</text>
+
+  <rect x="456" y="148" width="200" height="248" rx="10" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="472" y="176" font-size="12" font-weight="700" fill="#2563eb">CUÁNDO</text>
+  <text x="472" y="198" font-size="12.5" fill="#1e40af">Vas a producir algo</text>
+  <text x="472" y="216" font-size="12.5" fill="#1e40af">con otras personas,</text>
+  <text x="472" y="234" font-size="12.5" fill="#1e40af">en vivo</text>
+  <text x="472" y="266" font-size="12" font-weight="700" fill="#2563eb">DÓNDE VIVE</text>
+  <text x="472" y="288" font-size="12.5" fill="#1e40af">Archivo .page sobre</text>
+  <text x="472" y="306" font-size="12.5" fill="#1e40af">la misma base que Loop</text>
+  <text x="472" y="338" font-size="12" font-weight="700" fill="#2563eb">QUIÉN ENTRA</text>
+  <text x="472" y="360" font-size="12.5" fill="#1e40af">Quien reciba el vínculo</text>
+  <text x="472" y="378" font-size="12.5" fill="#1e40af">o el componente</text>
+
+  <rect x="668" y="148" width="200" height="248" rx="10" fill="#ffffff" stroke="#bbf7d0" stroke-width="1.5"/>
+  <text x="684" y="176" font-size="12" font-weight="700" fill="#16a34a">CUÁNDO</text>
+  <text x="684" y="198" font-size="12.5" fill="#14532d">Es el entregable final:</text>
+  <text x="684" y="216" font-size="12.5" fill="#14532d">se firma, se archiva</text>
+  <text x="684" y="234" font-size="12.5" fill="#14532d">o se manda fuera</text>
+  <text x="684" y="266" font-size="12" font-weight="700" fill="#16a34a">DÓNDE VIVE</text>
+  <text x="684" y="288" font-size="12.5" fill="#14532d">OneDrive o SharePoint,</text>
+  <text x="684" y="306" font-size="12.5" fill="#14532d">con tus permisos</text>
+  <text x="684" y="338" font-size="12" font-weight="700" fill="#16a34a">QUIÉN ENTRA</text>
+  <text x="684" y="360" font-size="12.5" fill="#14532d">Quien tú decidas,</text>
+  <text x="684" y="378" font-size="12.5" fill="#14532d">con permisos finos</text>
+
+  <text x="132" y="424" font-size="12.5" fill="#64748b" text-anchor="middle">↓ cuando se vuelve recurrente</text>
+  <text x="344" y="424" font-size="12.5" fill="#7c3aed" text-anchor="middle">↓ cuando hay que producir</text>
+  <text x="556" y="424" font-size="12.5" fill="#2563eb" text-anchor="middle">↓ cuando hay que cerrar</text>
+  <text x="768" y="424" font-size="12.5" fill="#16a34a" text-anchor="middle">fin del camino</text>
+
+  <rect x="32" y="440" width="836" height="92" rx="10" fill="#fef2f2" stroke="#fca5a5" stroke-width="2"/>
+  <text x="52" y="468" font-size="14" font-weight="700" fill="#991b1b">Lo que casi nadie sabe antes de compartir un cuaderno</text>
+  <text x="52" y="492" font-size="13" fill="#7f1d1d">Compartir el cuaderno no comparte solo el cuaderno: <tspan font-weight="700">también puede dar acceso a los archivos que están dentro.</tspan></text>
+  <text x="52" y="514" font-size="13" fill="#7f1d1d">Todos los invitados entran con permiso de edición —no hay solo lectura— y <tspan font-weight="700">no se pueden agregar grupos</tspan>, solo personas.</text>
+</svg>
