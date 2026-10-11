@@ -2,7 +2,7 @@
 
 Antes de entrarle al contenido, te conviene saber **contra qué te vas a enfrentar**. El AB-730 no es un examen largo, pero sí es distinto a los que quizá ya conoces.
 
-He hecho 15 examenes de certificación de Miucrosot en 11 años de carrera en tecnología y he aprobado 13 de ellos. Cada examen es diferente pero los patrones entre las certificaciones de Microsoft se repiten. Aquí comparto algunos tips y hacks que me han servido para aprobar los exámenes de certificación de Microsoft.
+He hecho 15 examenes de certificación de Microsot en 11 años de carrera en tecnología y he aprobado 13 de ellos. Cada examen es diferente pero los patrones entre las certificaciones de Microsoft se repiten. Aquí comparto algunos tips y hacks que me han servido para aprobar los exámenes de certificación de Microsoft.
 
 
 ## Ficha técnica del examen
